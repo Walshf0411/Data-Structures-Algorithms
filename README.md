@@ -1,1 +1,1 @@
-# Data-Structures-using-C
+# Data Structures & Algorithms
